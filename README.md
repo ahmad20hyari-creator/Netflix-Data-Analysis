@@ -7,10 +7,9 @@ This project analyzes the Netflix dataset using Python to extract insights about
 /Netflix-Data-Analysis
 │
 ├── netflix_analysis.ipynb          # Main Python notebook or script
-├── netflix.csv                     # Dataset (or link if large)
+├── netflix_title.csv                     # Dataset
 ├── presentation/                   # PowerPoint presentation
-│   └── Netflix_Project.pptx
-├── requirements.txt                # Python libraries used
+│   └── power point netflix.pptx
 ├── notes.md                        # Notes about the libraries
 └── README.md                       # Project description
 ```
