@@ -84,7 +84,7 @@ jupyter notebook netflix_analysis.ipynb
 
 ## Presentation
 The full PowerPoint presentation can be found here:
-[presentation/Netflix_Project.pptx](presentation/Netflix_Project.pptx)
+power point netflix.pptx
 
 ## Insights
 - Increase in TV shows after 2015
