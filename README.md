@@ -41,6 +41,8 @@ jupyter notebook netflix_analysis.ipynb
 
 ## Presentation
 The full PowerPoint presentation can be found here:
+https://github.com/ahmad20hyari-creator/Netflix-Data-Analysis/blob/main/power%20point%20netflix.pptx
+
 # Netflix Data Analysis Project 🎬
 
 This project analyzes the Netflix dataset using Python to extract insights about content trends, popular genres, and viewing patterns.
